@@ -1,0 +1,128 @@
+{
+    "trade_risk": 5,
+    "granularity": "M15",
+    "trading_pairs": {
+        "SOLUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.0017,
+            "mingain": 0.0006,
+            "riskreward": 1.5,
+            "defaultgain": 0.004,
+            "pip": 0.0001,
+            "defaultloss": 0.004
+        },
+        "TAOUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "LDOUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "GMTUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "PENGUUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "1000PEPEUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "AGLDUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "RSRUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "MOVEUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "VIRTUALUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "XRPUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        },
+        "HYPEUSDT": {
+            "n_ma": 10,
+            "n_std": 2.0,
+            "maxspread": 0.17,
+            "mingain": 0.06,
+            "riskreward": 1.5,
+            "defaultgain": 0.4,
+            "pip": 0.01,
+            "defaultloss": 0.4
+        }
+
+    }
+
+    }
